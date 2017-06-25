@@ -1,4 +1,4 @@
-# url-shortener
+# URL-shortener
 URL shortener service
 
 Build the project using <i>mvn clean package</i>
