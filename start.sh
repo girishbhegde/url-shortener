@@ -1,0 +1,1 @@
+java -Dspring.profiles.active=dev -jar target/url-shortener-1.0-SNAPSHOT.jar com.java.urlshortener.service.App
