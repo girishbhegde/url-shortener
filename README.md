@@ -1,7 +1,7 @@
 # url-shortener
-usl shortener service
+URL shortener service
 
-build the project using mvn clean package
+Build the project using <i>mvn clean package<i>
 
 Run the shell script start.sh to start the spring boot application
 
